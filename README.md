@@ -8,6 +8,9 @@ I am a proactive and fast learning individual pursuing B.Tech. in Computer Scien
 	<a href="https://github.com/abhisheksaxena1998"><img src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=64" height= "32px" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/abhishek-saxena-5ba805180/"><img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png?w=32" height= "32px" alt="Linkedin"></a>
 </p
+	<a href="mailto:abhi123923@gmail.com"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/gmail-512.png" height= "32px" alt="Mail">
+	<a href="https://twitter.com/abhE98"> <img src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png" height= "32px" alt="Twitter">
+		<a href="https://www.instagram.com/abhishek._.saxena/"><img src="https://www.pngfind.com/pngs/m/2-23339_black-and-white-instagram-logo-instagram-logo-2018.png" height= "32px" alt="Instagram">
 
 
 

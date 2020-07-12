@@ -4,7 +4,7 @@ I am a proactive and fast learning individual pursuing B.Tech. in Computer Scien
 
 
 <p align="center">
-	<a href="https://github.com/abhisheksaxena1998"><img src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512" alt="GitHub"></a>
+	<a href="https://github.com/abhisheksaxena1998"><img src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=128" alt="GitHub"></a>
 </p
 
 

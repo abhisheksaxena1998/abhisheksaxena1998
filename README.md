@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+
+I am a proactive and fast learning individual pursuing B.Tech. in Computer Science Engineering from Jaypee Institute of Information Technology, Noida seeking an opportunity to work utilizing analytical & methodical skills and relevant expertise while sticking to vision, mission and values.
 
 <!--
 **abhisheksaxena1998/abhisheksaxena1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

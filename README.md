@@ -5,7 +5,7 @@ I am a proactive and fast learning individual pursuing B.Tech. in Computer Scien
 *************
 
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/abhisheksaxena1998/)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&title_color=fff&icon_color=00ff00&text_color=00a6ff&bg_color=151515)](https://github.com/abhisheksaxena1998/)
 
 *************
 

@@ -6,7 +6,7 @@ I am a proactive and fast learning individual pursuing B.Tech. in Computer Scien
 
 [![](https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true)](https://github.com/abhisheksaxena1998/)
 
-### 📱 Contact :
+### 📱 Around the web on :
 <br />
 
 <p align="left">

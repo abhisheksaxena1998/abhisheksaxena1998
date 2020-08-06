@@ -1,4 +1,4 @@
-### <img src="Hi.gif" height= "40px" alt="GitHub"> Summary :
+### <img src="Hi.gif" height= "28px" alt="GitHub"> Hi :
 
 I am a proactive and fast learning individual pursuing B.Tech. in Computer Science Engineering from Jaypee Institute of Information Technology, Noida seeking an opportunity to work utilizing analytical & methodical skills and relevant expertise while sticking to vision, mission and values.
 <br />

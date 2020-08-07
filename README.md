@@ -5,7 +5,7 @@ I am a proactive and fast learning individual pursuing B.Tech. in Computer Scien
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/abhisheksaxena1998/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena1998&layout=compact)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena1998&layout=compact)](https://github.com/abhisheksaxena1998/)
 
 ### 📱 Around the web on <img src="https://github.com/abhisheksaxena1998/abhisheksaxena1998/blob/master/Earth.gif" height= "20px" alt="GitHub"> :
 <br />
@@ -21,6 +21,10 @@ I am a proactive and fast learning individual pursuing B.Tech. in Computer Scien
 
 <p align="left">
 <a href="https://abhisheksportfolio.herokuapp.com/" alt="My Portfolio">https://abhisheksportfolio.herokuapp.com/</a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhisheksaxena1998) ![Profile Views](https://komarev.com/ghpvc/?username=abhisheksaxena1998&color=blue)
+
+
 </p>
 <!--
 **abhisheksaxena1998/abhisheksaxena1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

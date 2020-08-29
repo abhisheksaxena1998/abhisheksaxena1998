@@ -1,6 +1,7 @@
 ### <img src="https://github.com/abhisheksaxena1998/abhisheksaxena1998/blob/master/Hi.gif" height= "28px" alt="GitHub"> Hi :
 
-I am a proactive and fast learning individual pursuing B.Tech. in Computer Science Engineering from Jaypee Institute of Information Technology, Noida seeking an opportunity to work utilizing analytical & methodical skills and relevant expertise while sticking to vision, mission and values.
+I am a fast learning individual pursuing B.Tech. in Computer Science Engineering from Jaypee Institute of Information Technology, Noida
+seeking an opportunity to work utilizing analytical and methodical skills while sticking to vision, mission and values.
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/abhisheksaxena1998/)

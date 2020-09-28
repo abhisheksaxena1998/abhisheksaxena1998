@@ -4,9 +4,14 @@ I am a fast learning individual pursuing B.Tech. in Computer Science Engineering
 seeking an opportunity to work utilizing analytical and methodical skills while sticking to vision, mission and values.
 <br />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/abhisheksaxena1998/)
+## &#x1f4c8; GitHub Stats
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena1998&layout=compact)](https://github.com/abhisheksaxena1998/)
+<a href="https://github.com/abhisheksaxena1998/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&count_private=true&include_all_commits=true" height="200rem" />
+</a>
+<a href="https://github.com/abhisheksaxena1998/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena1998&layout=compact" height="200rem"/>
+</a>
 
 ### 📱 Around the web on <img src="https://github.com/abhisheksaxena1998/abhisheksaxena1998/blob/master/Earth.gif" height= "20px" alt="GitHub"> :
 <br />

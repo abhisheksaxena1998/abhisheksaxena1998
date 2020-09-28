@@ -7,10 +7,10 @@ seeking an opportunity to work utilizing analytical and methodical skills while 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abhisheksaxena1998/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&count_private=true&include_all_commits=true" height="200rem" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&count_private=true&include_all_commits=true" height="180rem" />
 </a>
 <a href="https://github.com/abhisheksaxena1998/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena1998&layout=compact" height="200rem"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena1998&layout=compact" height="180rem"/>
 </a>
 
 ### 📱 Around the web on <img src="https://github.com/abhisheksaxena1998/abhisheksaxena1998/blob/master/Earth.gif" height= "20px" alt="GitHub"> :

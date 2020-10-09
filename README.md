@@ -1,10 +1,10 @@
 ### <img src="https://github.com/abhisheksaxena1998/abhisheksaxena1998/blob/master/Hi.gif" height= "28px" alt="GitHub"> Hi :
-
-I am a fast learning individual pursuing B.Tech. in Computer Science Engineering from Jaypee Institute of Information Technology, Noida
-seeking an opportunity to work utilizing analytical and methodical skills while sticking to vision, mission and values.
+<p align="center" ><strong>
+ɪ ᴀᴍ ᴀ ᴘʀᴏᴀᴄᴛɪᴠᴇ ᴀɴᴅ ꜰᴀꜱᴛ ʟᴇᴀʀɴɪɴɢ ɪɴᴅɪᴠɪᴅᴜᴀʟ ᴄᴜʀʀᴇɴᴛʟʏ ᴀ 4ᴛʜ-ʏᴇᴀʀ ꜱᴛᴜᴅᴇɴᴛ ᴘᴜʀꜱᴜɪɴɢ ʙ.ᴛᴇᴄʜ. ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ ꜰʀᴏᴍ ᴊᴀʏᴘᴇᴇ ɪɴꜱᴛɪᴛᴜᴛᴇ ᴏꜰ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ, ɴᴏɪᴅᴀ ꜱᴇᴇᴋɪɴɢ ᴀɴ ᴏᴘᴘᴏʀᴛᴜɴɪᴛʏ ᴛᴏ ᴡᴏʀᴋ ᴜᴛɪʟɪᴢɪɴɢ ᴀɴᴀʟʏᴛɪᴄᴀʟ, ᴍᴇᴛʜᴏᴅɪᴄᴀʟ ꜱᴋɪʟʟꜱ ᴀɴᴅ ʀᴇʟᴇᴠᴀɴᴛ ᴇxᴘᴇʀᴛɪꜱᴇ ᴡʜɪʟᴇ ꜱᴛɪᴄᴋɪɴɢ ᴛᴏ ᴀ ᴠɪꜱɪᴏɴ, ᴍɪꜱꜱɪᴏɴ, ᴀɴᴅ ᴠᴀʟᴜᴇꜱ. ᴍʏ ᴀʀᴇᴀꜱ ᴏꜰ ɪɴᴛᴇʀᴇꜱᴛ ɪɴᴄʟᴜᴅᴇ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴘʏᴛʜᴏɴ/ᴅᴊᴀɴɢᴏ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴄᴇ, ᴍᴀᴄʜɪɴᴇ ʟᴇᴀʀɴɪɴɢ, ᴀɴᴅ ɪʙᴍ ᴄʟᴏᴜᴅ.
+	</strong></p>
 <br />
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abhisheksaxena1998/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksaxena1998&show_icons=true&count_private=true&include_all_commits=true" height="180rem" />

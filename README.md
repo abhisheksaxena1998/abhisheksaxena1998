@@ -1,5 +1,3 @@
-<a href="https://github.com/abhisheksaxena1998/"><img src="namegif.gif" alt="GitHub"></a>
-
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/abhisheksaxena1998/">

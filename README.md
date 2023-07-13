@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksaxena1998&layout=compact" height="180rem"/>
 </a>
 
-### 📱 Around the web on <img src="https://github.com/abhisheksaxena1998/abhisheksaxena1998/blob/master/Earth.gif" height= "20px" alt="GitHub"> :
+### 📱 Around the web on <img src="https://github.com/abhisheksaxena1998/abhisheksaxena1998/blob/master/Earth.gif" height= "20px" width="20px" alt="GitHub"> :
 <br />
 
 <p align="left">
@@ -20,7 +20,7 @@
 
 
 <p align="left">
-<a href="https://abhishekdevfolio.eu-gb.cf.appdomain.cloud/" alt="My Portfolio">https://abhishekdevfolio.eu-gb.cf.appdomain.cloud/</a>
+<a href="https://abhisheksaxena1998.github.io/" alt="My Portfolio">https://abhisheksaxena1998.github.io/</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhisheksaxena1998) ![Profile Views](https://komarev.com/ghpvc/?username=abhisheksaxena1998&color=blue)
 
